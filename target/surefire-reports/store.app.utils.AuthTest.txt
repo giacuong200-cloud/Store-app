@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: store.app.utils.AuthTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.994 s -- in store.app.utils.AuthTest
